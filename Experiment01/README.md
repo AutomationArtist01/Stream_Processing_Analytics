@@ -79,4 +79,4 @@ The notebook displays:
 
 ## Author
 
-Rohit Kumar
+Gurrala Rohith Kumar
